@@ -11,8 +11,9 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Soft orange: hsl(35, 77%, 62%)
-- Soft red: hsl(5, 85%, 63%)
+- Soft orange: hsl(35, 77%, 62%)  --- #e9ab53
+- Soft red: hsl(5, 85%, 63%)  --- 
+#f15e50
 
 ### Neutral
 
